@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables file
+.env
+
+# Vercel deployment
+.vercel/
+
+# IDEs and editor configurations
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
